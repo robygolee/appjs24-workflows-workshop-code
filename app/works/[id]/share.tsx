@@ -38,7 +38,6 @@ export default function ShareWork() {
                 src: image.path,
                 scale: 1,
             },
-
             watermarkTexts: [
                 {
                     text: "#cma",
